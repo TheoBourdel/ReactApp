@@ -1,0 +1,17 @@
+.media-container {
+    display: flex;
+    flex-direction: row;
+    width: 343px;
+    height: 440px;
+}
+.post-container {
+    height: 393px;
+}
+.profil-container {
+    padding-top: 16px;
+    height: 28px;;
+}
+img {
+    width: 343px;
+    height: 343px;
+}

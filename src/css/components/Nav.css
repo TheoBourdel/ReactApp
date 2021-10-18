@@ -1,0 +1,37 @@
+nav {
+    width: 343px;
+    height: 83px;
+    background: #FFFFFF;
+    box-shadow: 0px -0.5px 0px rgba(0, 0, 0, 0.3);
+    position: fixed;
+    bottom: 0%;
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+}
+nav ul li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.nav-li-size {
+    width: 15.56px;
+    height: 14.06px;
+}
+.add-container {
+    background: linear-gradient(202.17deg, #FF00D6 8.58%, #FF4D00 91.42%);
+    border-radius: 20px;
+    height: 40px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.adjust {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

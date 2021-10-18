@@ -1,0 +1,25 @@
+.imageSearch-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 343px;
+    height: auto;
+    flex-wrap: wrap;
+}
+.imageSearch-container :nth-child(1), 
+.imageSearch-container :nth-child(2),
+.imageSearch-container :nth-child(4),
+.imageSearch-container :nth-child(5),
+.imageSearch-container :nth-child(7),
+.imageSearch-container :nth-child(8),
+.imageSearch-container :nth-child(10),
+.imageSearch-container :nth-child(11),
+.imageSearch-container :nth-child(13),
+.imageSearch-container :nth-child(14) {
+    margin-right: 8px;
+}
+.dog-size {
+    width: 107px;
+    height: 107px;
+    margin-bottom: 8px;
+}

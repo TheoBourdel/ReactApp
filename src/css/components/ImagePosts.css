@@ -1,0 +1,26 @@
+.image-container {
+    display: flex;
+    flex-direction: row;
+    width: 343px;
+    height: auto;
+    padding-bottom: 20px;
+}
+.image-left {
+    display: flex;
+    flex-direction: column;
+    margin-right: 8px;
+}
+.image-right {
+    display: flex;
+    flex-direction: column;
+}
+.small-image {
+    width: 167px;
+    height: 220px;
+    margin-bottom: 8px;
+}
+.high-image {
+    width: 167px;
+    height: 310px;
+    margin-bottom: 8px;
+}
